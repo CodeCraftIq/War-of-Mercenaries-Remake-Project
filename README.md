@@ -1,8 +1,9 @@
-### 🌐 رابط السيرفر
-`https://my-game-server-production-fb37.up.railway.app`[span_1](start_span)[span_1](end_span)
+ 
+`### 🌐 رابط السيرفر
+`https://my-game-server-production-fb37.up.railway.app`
 # Game Research & Asset Analysis Project
-
 ## مقدمة
+
 
 هذا المستودع هو مشروع بحثي وتعليمي يهدف إلى دراسة وتحليل لعبة قديمة لفهم طريقة بنائها والتقنيات المستخدمة في تطويرها.
 
