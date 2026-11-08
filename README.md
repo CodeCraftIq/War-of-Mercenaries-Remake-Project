@@ -219,3 +219,5 @@ ATF (Adobe Texture Format)
 * محاولة إعادة إحياء تجربة اللعبة بطريقة حديثة.
 
 نرحب بمشاركة كل من لديه خبرة أو معلومات يمكن أن تساعد في إكمال المشروع.
+### 🌐 رابط السيرفر
+`https://my-game-server-production-fb37.up.railway.app`[span_1](start_span)[span_1](end_span)
