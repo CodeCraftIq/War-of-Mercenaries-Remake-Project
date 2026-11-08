@@ -1,3 +1,5 @@
+### 🌐 رابط السيرفر
+`https://my-game-server-production-fb37.up.railway.app`
 # Game Research & Asset Analysis Project
 
 ## مقدمة
